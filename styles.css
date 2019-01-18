@@ -1,0 +1,45 @@
+.topOfPage{
+    background-color: blue;
+    height:33%;
+    padding:30px;
+     display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:5px;
+}
+
+.middleOfPage{
+    background-color:green;
+    height:33%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:5px;
+}
+
+.bottomOfPage{
+    background-color:yellow;
+    height:33%;
+     display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin:5px;
+}
+
+.container{
+    display:flex;
+    justify-content:space-between;
+    flex-direction:column;
+    background-color: purple;
+    height:100vh;
+}
+
+button{
+    height:25px;
+    
+    
+}
+
+img{
+    height:100px;
+}
